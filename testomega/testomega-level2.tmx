@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="UK">
+        <seg>3 березня вийшов прем'єрний випуск нової програми — «Святі та грішні».</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062224Z" creationid="Asus" creationdate="20200416T062224Z">
+        <seg>On 3 March, the first episode of a new programme The Saint and The Sinner premiered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
         <seg>«Я займатимуся побудовою взаємозв’язків, із яких має вирости єдина мультимедійна редакція, що має бачення журналістики суспільного інтересу й здатна розповідати по-справжньому складні історії зрозумілою мовою, у привабливих і гнучких діджитал-форматах.», — прокоментувала Ангеліна Карякіна.</seg>
       </tuv>
       <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061123Z" creationid="Asus" creationdate="20200416T061123Z">
         <seg>“I will work on relationship establishment which should result in a single multimedia editorial office that has a vision of public interest journalism and is able to tell really difficult stories in plain language, in attractive and flexible digital formats,” Anhelina Kariakina said.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Її ведучою стала Мирослава Барчук.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062241Z" creationid="Asus" creationdate="20200416T062241Z">
+        <seg>The host of the programme is Myroslava Barchuk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,6 +46,14 @@
     </tu>
     <tu>
       <tuv xml:lang="UK">
+        <seg>Гостями будуть політики та інші відомі персони.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062329Z" creationid="Asus" creationdate="20200416T062329Z">
+        <seg>Politicians and other renowned people will guest on the programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
         <seg>До цього очолювала відділ документального кіно hromadske.</seg>
       </tuv>
       <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061108Z" creationid="Asus" creationdate="20200416T061108Z">
@@ -46,6 +70,14 @@
     </tu>
     <tu>
       <tuv xml:lang="UK">
+        <seg>За останні десять років спортивні програми UA: Радіо Промінь багато разів потрапляли до трійки лідерів конкурсу.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062425Z" creationid="Asus" creationdate="20200416T062425Z">
+        <seg>For the last ten years, sports programmes of UA: Radio Promin have frequently got to the top three contest leaders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
         <seg>Зазначимо, що відрядження команди UA: КУЛЬТУРА на Берлінале минулого тижня стало можливим завдяки особистому фінансуванню поїздки виконавчим продюсером телеканалу UA: КУЛЬТУРА Лук’яном Галкіним.</seg>
       </tuv>
       <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060712Z" creationid="Asus" creationdate="20200416T060712Z">
@@ -58,6 +90,14 @@
       </tuv>
       <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061015Z" creationid="Asus" creationdate="20200416T061015Z">
         <seg>Anhelina Kariakina, a media manager and journalist, has joined UA: PBC team.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Мирослава Барчук вестиме в студії діалог на межі конфлікту, щоб розкрити глядачеві особистість гостя.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062308Z" creationid="Asus" creationdate="20200416T062308Z">
+        <seg>Myroslava Barchuk will hold a conversation on the verge of conflict in order to reveal guest’s personality to the audience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +142,58 @@
     </tu>
     <tu>
       <tuv xml:lang="UK">
+        <seg>Прем’єра на Суспільному: стартує програма «Святі та грішні»</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062207Z" creationid="Asus" creationdate="20200416T062207Z">
+        <seg>Premiere at UA: PBC: The Saint and The Sinner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Програма «Святі та грішні» виходитиме щовівторка на суспільному телеканалі UA: ПЕРШИЙ у форматі інтерв’ю.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062257Z" creationid="Asus" creationdate="20200416T062257Z">
+        <seg>In the interview format, The Saint and The Sinner will be broadcast every Tuesday on UA: PERSHYI public channel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Проєкт UA: Радіо Промінь став найкращою циклічною спортивною радіопрограмою в Україні</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062344Z" creationid="Asus" creationdate="20200416T062344Z">
+        <seg>UA: Radio Promin project becomes best regular sports radio programme in Ukraine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Проєкт другого каналу Суспільного радіо UA: Радіо Промінь «Майстри спорту» визнали найкращою циклічною спортивною радіопрограмою України.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062359Z" creationid="Asus" creationdate="20200416T062359Z">
+        <seg>Masters of Sport, the project of Channel Two of Ukrainian Radio UA: Radio Promin, has been recognized as Best regular sports radio programme in Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
         <seg>Також відповідатиме за конвергентність процесів і створення єдиного ньюзруму телерадіокомпанії.</seg>
       </tuv>
       <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061040Z" creationid="Asus" creationdate="20200416T061040Z">
         <seg>She will also be responsible for convergence of processes and establishment of a single newsroom in the broadcasting company.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Усі випуски програми «Майстри спорту» можна переглянути онлайн.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062435Z" creationid="Asus" creationdate="20200416T062435Z">
+        <seg>You can watch all episodes of Masters of Sport online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="UK">
+        <seg>Церемонія нагородження переможців Всеукраїнського конкурсу серед спортивних журналістів «Україна олімпійська» відбулася 27 лютого в залі Національного олімпійського комітету.</seg>
+      </tuv>
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T062414Z" creationid="Asus" creationdate="20200416T062414Z">
+        <seg>The Award Ceremony of Olympic Ukraine, a Ukrainian contest among sports journalists, took place in the National Olympic Committee Hall on 27 February.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
