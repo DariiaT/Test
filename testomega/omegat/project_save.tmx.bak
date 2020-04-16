@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="UK"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="UK">
+        <seg>Зазначимо, що відрядження команди UA: КУЛЬТУРА на Берлінале минулого тижня стало можливим завдяки особистому фінансуванню поїздки виконавчим продюсером телеканалу UA: КУЛЬТУРА Лук’яном Галкіним.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060712Z" creationid="Asus" creationdate="20200416T060712Z">
+        <seg>Furthermore, UA: KULTURA team had a chance to visit Berlinale film festival last week owing to Lukian Halkin, the Executive Producer of UA: KULTURA TV channel, who personally funded the trip.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="UK">
+        <seg>На Суспільному через арештовані рахунки скасовують журналістські відрядження</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060615Z" creationid="Asus" creationdate="20200416T060615Z">
+        <seg>Reporting trips cancelled due to UA: PBC frozen bank accounts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="UK">
+        <seg>Наразі арешт рахунків призвів до скасування відрядження спортивних журналістів на Чемпіонат світу зі скелетону в німецькому Альтенберзі й на сьомий і восьмий етап Кубка світу з біатлону, які відбудуться в чеському містечку Нове Место та фінському Контіолагті.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060642Z" creationid="Asus" creationdate="20200416T060642Z">
+        <seg>Freezing the accounts has already led to the cancellation of sports journalists’ reporting trips to IBSF World Championships in Altenberg, Germany, and to 7th and 8th stages of Biathlon World Cup held in Nove Mesto, Czech Republic, and Kontiolahti, Finnland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="UK">
+        <seg>Працівникам Суспільного мовника довелося скасувати три відрядження на спортивні змагання через накладений арешт на рахунки Суспільного.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060627Z" creationid="Asus" creationdate="20200416T060627Z">
+        <seg>UA: PBC’s employees had to cancel three reporting trips to sports events because of the freeze of UA: PBC bank accounts.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

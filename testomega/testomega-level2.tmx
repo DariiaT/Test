@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tmx SYSTEM "tmx11.dtd">
-<tmx version="1.1">
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="UK"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>«Я займатимуся побудовою взаємозв’язків, із яких має вирости єдина мультимедійна редакція, що має бачення журналістики суспільного інтересу й здатна розповідати по-справжньому складні історії зрозумілою мовою, у привабливих і гнучких діджитал-форматах.», — прокоментувала Ангеліна Карякіна.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061123Z" creationid="Asus" creationdate="20200416T061123Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061123Z" creationid="Asus" creationdate="20200416T061123Z">
         <seg>“I will work on relationship establishment which should result in a single multimedia editorial office that has a vision of public interest journalism and is able to tell really difficult stories in plain language, in attractive and flexible digital formats,” Anhelina Kariakina said.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Ангеліна Карякіна відповідатиме за конвергентні процеси на Суспільному</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060946Z" creationid="Asus" creationdate="20200416T060946Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060946Z" creationid="Asus" creationdate="20200416T060946Z">
         <seg>Anhelina Kariakina in charge of convergent processes at UA: PBC</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Вона займатиметься стратегічним плануванням та координацією всіх платформ насамперед із діджитал-платформою.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061031Z" creationid="Asus" creationdate="20200416T061031Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061031Z" creationid="Asus" creationdate="20200416T061031Z">
         <seg>She will work on strategic planning and coordination of all platforms, with digital platform in particular.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>До цього очолювала відділ документального кіно hromadske.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061108Z" creationid="Asus" creationdate="20200416T061108Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061108Z" creationid="Asus" creationdate="20200416T061108Z">
         <seg>Previously, she had headed the Documentary Department at hromadske.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>З 2016 року Ангеліна Карякіна працювала головною редакторкою hromadske, де керувала перебудовою новинного мовлення.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061053Z" creationid="Asus" creationdate="20200416T061053Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061053Z" creationid="Asus" creationdate="20200416T061053Z">
         <seg>Since 2016, Anhelina Kariakina worked as Editor-in-Chief at hromadske where she managed the reconstruction of news broadcasting.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Зазначимо, що відрядження команди UA: КУЛЬТУРА на Берлінале минулого тижня стало можливим завдяки особистому фінансуванню поїздки виконавчим продюсером телеканалу UA: КУЛЬТУРА Лук’яном Галкіним.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060712Z" creationid="Asus" creationdate="20200416T060712Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060712Z" creationid="Asus" creationdate="20200416T060712Z">
         <seg>Furthermore, UA: KULTURA team had a chance to visit Berlinale film festival last week owing to Lukian Halkin, the Executive Producer of UA: KULTURA TV channel, who personally funded the trip.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Медіаменеджерка та журналістка Ангеліна Карякіна приєдналася до команди Суспільного мовника.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061015Z" creationid="Asus" creationdate="20200416T061015Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061015Z" creationid="Asus" creationdate="20200416T061015Z">
         <seg>Anhelina Kariakina, a media manager and journalist, has joined UA: PBC team.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>На Суспільному через арештовані рахунки скасовують журналістські відрядження</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060615Z" creationid="Asus" creationdate="20200416T060615Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060615Z" creationid="Asus" creationdate="20200416T060615Z">
         <seg>Reporting trips cancelled due to UA: PBC frozen bank accounts</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Нагадаємо, роботу Суспільного заблоковано.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060911Z" creationid="Asus" creationdate="20200416T060911Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060911Z" creationid="Asus" creationdate="20200416T060911Z">
         <seg>As a reminder, UA: PBC operation is blocked.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Наразі арешт рахунків призвів до скасування відрядження спортивних журналістів на Чемпіонат світу зі скелетону в німецькому Альтенберзі й на сьомий і восьмий етап Кубка світу з біатлону, які відбудуться в чеському містечку Нове Место та фінському Контіолагті.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060642Z" creationid="Asus" creationdate="20200416T060642Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060642Z" creationid="Asus" creationdate="20200416T060642Z">
         <seg>Freezing the accounts has already led to the cancellation of sports journalists’ reporting trips to IBSF World Championships in Altenberg, Germany, and to 7th and 8th stages of Biathlon World Cup held in Nove Mesto, Czech Republic, and Kontiolahti, Finnland.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Постановами Відділу примусового виконання рішень Департаменту державної виконавчої служби Міністерства юстиції України від 18 лютого 2020 року та від 20 лютого 2020 року №61321781 було накладено арешт на кошти, що є на рахунках Суспільного мовника.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060930Z" creationid="Asus" creationdate="20200416T060930Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060930Z" creationid="Asus" creationdate="20200416T060930Z">
         <seg>By the Regulations No. 61321781 of the Enforcement of Judgments Office of the State Executive Service Department of the Ministry of Justice of Ukraine dd 18 February 2020 and 20 February 2020, the funds on the Public Broadcaster’s accounts were frozen.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Працівникам Суспільного мовника довелося скасувати три відрядження на спортивні змагання через накладений арешт на рахунки Суспільного.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T060627Z" creationid="Asus" creationdate="20200416T060627Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T060627Z" creationid="Asus" creationdate="20200416T060627Z">
         <seg>UA: PBC’s employees had to cancel three reporting trips to sports events because of the freeze of UA: PBC bank accounts.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="UK">
+      <tuv xml:lang="UK">
         <seg>Також відповідатиме за конвергентність процесів і створення єдиного ньюзруму телерадіокомпанії.</seg>
       </tuv>
-      <tuv lang="EN-GB" changeid="Asus" changedate="20200416T061040Z" creationid="Asus" creationdate="20200416T061040Z">
+      <tuv xml:lang="EN-GB" changeid="Asus" changedate="20200416T061040Z" creationid="Asus" creationdate="20200416T061040Z">
         <seg>She will also be responsible for convergence of processes and establishment of a single newsroom in the broadcasting company.</seg>
       </tuv>
     </tu>
